@@ -1,15 +1,13 @@
 h1{
-font-family: 'Source Sans Pro', sans-serif;
+
 font-size: 23;
 font-weight: bold;
 text-align: center;
 }
 h2{
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 18;
     }
 body {
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 16;
     line-height: 120%;
 }
