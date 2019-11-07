@@ -18,5 +18,7 @@ content{
     display: block;
 }
 img{
-    align-content: center;
+    margin-right: auto;
+    margin-left: auto ;
+    display: block;
 }
